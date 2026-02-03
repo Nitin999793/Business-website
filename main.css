@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  line-height: 1.6;
+  color: #333;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: #111;
+  color: white;
+}
+
+.hero {
+  padding: 60px;
+  text-align: center;
+  background: #f4f4f4;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  background: #e63946;
+  color: white;
+  cursor: pointer;
+}/*# sourceMappingURL=main.css.map */

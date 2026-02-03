@@ -1,0 +1,21 @@
+.navbar {
+  @include flex-center;
+  padding: 20px;
+  background: $dark-color;
+  color: white;
+}
+
+.hero {
+  padding: 60px;
+  text-align: center;
+  background: $light-bg;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  background: $primary-color;
+  color: white;
+  cursor: pointer;
+}
